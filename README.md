@@ -2,7 +2,7 @@
 
   <h3 align="center">Responsive Image Slider Using HTML CSS and JavaScript</h3>
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Rotaralexc/Responsive-Slider-1/blob/1ea12e47b2f036f9ee913cdd9c56a727fc0bf16d/ResponsiveSlider1.png" alt="Project Banner">
   <br />
 
   <h3 align="center">DEMO</h3>
